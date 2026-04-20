@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel 👋
 
-Sou desenvolvedor focado em Python, automações, bots e experimentos no Android/Termux.
+Sou Focado em Python, automações, bots e experimentos no Android/Termux.
 
 ## Sobre mim
 - 🐍 Curto programar em Python
