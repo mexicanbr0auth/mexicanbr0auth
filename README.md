@@ -25,9 +25,6 @@ Desenvolvedor focado em soluções mobile, APIs e automação, construindo proje
 
 ---
 
-### 📈 Atividade no GitHub
-
-* 🔧 Automatizando rotinas e integrando modelos de Inteligência Artificial no fluxo de trabalho.
 
 <br>
 
