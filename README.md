@@ -4,7 +4,7 @@ Desenvolvedor focado em soluções mobile, APIs e automação, construindo proje
 
 - 📱 Desenvolvendo totalmente via **Termux**
 - ⚡ Editor oficial: **Neovim**
-- 🤖 Projetos atuais: Integrações com **Google IA**, APIs em **Flask** e Apps em **Kotlin**
+
 
 ---
 
