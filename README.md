@@ -1,6 +1,5 @@
 # Olá, eu sou o mexicanbr0auth! 👋
 
-Desenvolvedor focado em soluções mobile, APIs e automação, construindo projetos diretamente do ambiente mobile.
 
 - 📱 Desenvolvendo totalmente via **Termux**
 - ⚡ Editor oficial: **Neovim**
